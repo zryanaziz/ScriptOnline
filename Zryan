@@ -67,12 +67,22 @@ function LOOBY()
   GLWW = -1 
 end 
 function Wallhack() 
-  gg.clearResults()
-gg.setRanges(4)
-gg.searchNumber("1.8367379e-40;3.8530381e-34;1.9402042e-39;7.0064923e-45;4.2038954e-45;1.793662e-43;1.4012985e-45;2.8025969e-45;3.5873241e-43;1.1210388e-44;0.5;0.5:297", 4, false, 536870912, 0, -1)
-gg.searchNumber("0.5", 4, false, 536870912, 0, -1)
-gg.getResults(6)
-gg.editAll("2.0", 4)
+gg.processResume()
+gg.searchNumber('"1.8367379e-40;3.8530381e-34;1.9402042e-39;7.0064923e-45;4.2038954e-45;1.793662e-43;1.4012985e-45;2.8025969e-45;3.5873241e-43;1.1210388e-44;0.5;0.5:297"', gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber('"0.5"', gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+
+revert = gg.getResults(50, nil, nil, nil, nil, nil, nil, nil, nil)
+local t = gg.getResults(50, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, v in ipairs(t) do
+ if v.flags == gg.TYPE_FLOAT then
+  v.value = '"2"'
+  v.freeze = true
+ end
+end
+gg.addListItems(t)
+t = nil
+
+gg.processResume()
 end
 function Lobby() 
   gg.clearResults()
