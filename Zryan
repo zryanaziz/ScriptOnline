@@ -162,7 +162,7 @@ gg.searchNumber("220.0", 16, false, 536870912, 0, -1)
 gg.refineNumber("220.0", 16, false, 536870912, 0, -1)
 gg.refineNumber("220.0", 16, false, 536870912, 0, -1)
 gg.getResults(300)
-gg.editAll("350.0", 16)
+gg.editAll("320.0", 16)
 gg.clearResults()
 gg.toast("🎥 ᴄᴀᴍᴇʀᴀ ᴘʟᴀʏᴇʀ x3")
 end 
