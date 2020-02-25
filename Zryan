@@ -213,7 +213,7 @@ function Log()
     os.remove("data/data/com.pubg.krmobile/app_geolocation")
     os.remove("data/data/com.pubg.krmobile/app_tbs")
     os.remove("data/data/com.pubg.krmobile/app_textures")
-    os.remove("data/data/com.pubg.krmobile/app_webview_imsdk_inner_webview")                                                                                                                                                                      ## MORTY
+    os.remove("data/data/com.pubg.krmobile/app_webview_imsdk_inner_webview")
     os.remove("data/data/com.pubg.krmobile/cache")
     os.remove("data/data/com.pubg.krmobile/files")
     os.remove("data/media/0/Android/data/com.tencent.mm")
