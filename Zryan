@@ -26,10 +26,10 @@ function LOOBY()
     "Speed Jeep", 
     "Speed Dacia",
     "Log Cleaner",
-    "",
-    "",
-    "",
-    "",
+    "Weapon Wallhack",
+    "Car Wallhack",
+    "Black Sky",
+    "More",
     "Back" 
   }, nil, "Zryan") 
   if STM1 == nil then 
