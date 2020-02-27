@@ -1,4 +1,4 @@
-local pass = "" -- Enter Pass
+local pass = "1234" -- Enter Password [Password in Telegram]
 local Crack = gg.prompt(
 {"ENTER PASSWORD"},{""},{"number"})
 if Crack == nil then
