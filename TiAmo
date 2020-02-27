@@ -1,24 +1,3 @@
-gg.setVisible(false)
-StartBypass = gg.alert("Verify...","[NO]","[YES]")
-if StartBypass == 1 then 
-gg.setVisible(true)
-print("GOOD BYE 🖐") os.exit()end
-if StartBypass == 2 then end
-username = gg.prompt({
-	"TiAmo"
-}, {}, {
-	[1] = "text"
-})
-if username[1] == '' then
-   gg.toast("ENTER USERNAME")
-	gg.alert("⚠ ENTER USERNAME ⚠")
-	os.exit()
-end 
-gg.sleep(300)
-gg.toast("Verify...")
-gg.sleep(800)
-gg.toast("Verify Success")
-gg.sleep(300)
 function Main()
   TA = gg.choice({
     "All AntiBen V1 [Lobby] ",
