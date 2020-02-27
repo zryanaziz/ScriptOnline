@@ -1,0 +1,1204 @@
+function Main()
+  TA = gg.choice({
+    "All AntiBen V1 [Lobby] ",
+    "All Antiben V2 [Lobby] ",
+    "WallHack + ColorHack [Training/Game] ",
+    "In Lobby Hacks [Lobby] ",
+    "In Game Hacks [Game] ",
+    "🔚🅴🆇🅸🆃"
+  }, nil, "TiAmoSam")
+  if TA == nil then
+  else
+  if TA == 1 then
+      antiben1()
+  end
+  if TA == 2 then
+      antiben2()
+  end
+  if TA == 3 then
+      whch()
+  end
+  if TA == 4 then
+      ilh()
+  end
+  if TA == 5 then
+      igb()
+  end
+  if TA == 6 then
+      exit()
+  end
+  end
+  PUBGMH = -1
+end
+
+function antiben1()
+  AB = gg.choice({
+    "⟦GLOBLE⟧",
+    "⟦KOREAN⟧",
+    "⟦TAIWAN⟧",
+    "⟦VIETNAM⟧",
+    "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if AB == 1 then
+    gll()
+  end
+  if AB == 2 then
+    krr()
+  end
+  if AB == 3 then
+    tww()
+  end
+  if AB == 4 then
+    vngg()
+  end
+  if AB == 5 then
+    Main()
+  end
+  end
+  PUBGMH = -1
+
+function gll()
+gg.toast("Good")
+end
+function krr()
+gg.toast("Good")
+end
+function tww()
+gg.toast("Good")
+end
+function vngg()
+gg.toast("Good")
+end
+
+function antiben2()
+  ABC = gg.choice({
+    "⟦GLOBLE⟧",
+    "⟦KOREAN⟧",
+    "⟦TAIWAN⟧",
+    "⟦VIETNAM⟧",
+    "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if ABC == 1 then
+    gl()
+  end
+  if ABC == 2 then
+    kr()
+  end
+  if ABC == 3 then
+    tw()
+  end
+  if ABC == 4 then
+    vng()
+  end
+  if ABC == 5 then
+    Main()
+  end
+  end
+  PUBGMH = -1
+
+function gl()
+gg.toast("Good")
+end
+function kr()
+gg.toast("Good")
+end
+function tw()
+gg.toast("Good")
+end
+function vng()
+gg.toast("Good")
+end
+
+function whch()
+  WCC = gg.choice({
+    "⟦Wall-Hack⟧",
+    "⟦Color-Hack⟧",
+    "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if WCC == 1 then
+    whth()
+  end
+  if WCC == 2 then
+    chtg()
+  end
+  if WCC == 3 then
+    Main()
+    end
+end
+
+function whth()
+  WALL = gg.choice({
+    "W.H All Device V1",
+    "W.H All Device V2",
+    "W.H All SD",
+    "W.H SD 400",
+    "W.H SD 410",
+    "W.H SD 415",
+    "W.H SD 425",
+    "W.H SD 430",
+    "W.H SD 435",
+    "W.H SD 600",
+    "W.H SD 610",
+    "W.H SD 615",
+    "W.H SD 625",
+    "W.H SD 626",
+    "W.H SD 630",
+    "W.H SD 636",
+    "W.H SD 650",
+    "W.H SD 653",
+    "W.H SD 660",
+    "W.H SD 710",
+    "W.H SD 712",
+    "W.H SD 800 V1",
+    "W.H SD 800 V2",
+    "W.H SD 805",
+    "W.H SD 808",
+    "W.H SD 810",
+    "W.H SD 820",
+    "W.H SD 835",
+    "W.H SD 845",
+    "W.H SD 855",
+    "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if WALL == nil then
+  else
+  if WALL == 1 then
+    wh1()
+  end
+  if WALL == 2 then
+      wh2()
+  end
+  if WALL == 3 then
+      wh3()
+  end
+  if WALL == 4 then
+      wh4()
+  end
+  if WALL == 5 then
+      wh5()
+  end
+  if WALL == 6 then
+      wh6()
+  end
+  if WALL == 7 then
+      wh7()
+  end
+  if WALL == 8 then
+      wh8()
+  end
+  if WALL == 9 then
+      wh9()
+  end
+  if WALL == 10 then
+      wh10()
+  end
+  if WALL == 11 then
+      wh11()
+  end
+  if WALL == 12 then
+      wh12()
+  end
+  if WALL == 13 then
+      wh13()
+  end
+  if WALL == 14 then
+      wh14()
+  end
+  if WALL == 15 then
+      wh15()
+  end
+  if WALL == 16 then
+      wh16()
+  end
+  if WALL == 17 then
+      wh17()
+  end
+  if WALL == 18 then
+      wh18()
+  end
+  if WALL == 19 then
+      wh19()
+  end
+  if WALL == 20 then
+      wh20()
+  end
+  if WALL == 21 then
+      wh21()
+  end
+  if WALL == 22 then
+      wh22()
+  end
+  if WALL == 23 then
+      wh23()
+  end
+  if WALL == 24 then
+      wh24()
+  end
+  if WALL == 25 then
+      wh25()
+  end
+  if WALL == 26 then
+      wh26()
+  end
+  if WALL == 27 then
+      wh27()
+  end
+  if WALL == 28 then
+      wh28()
+  end
+  if WALL == 29 then
+      wh29()
+  end
+  if WALL == 30 then
+      wh30()
+  end
+  if WALL == 31 then
+      whch()
+  end
+  end
+  PUBGMH = -1
+end
+
+function wh1()
+end
+function wh2()
+end
+function wh3()
+end
+function wh4()
+end
+function wh5()
+end
+function wh6()
+end
+function wh7()
+end
+function wh8()
+end
+function wh9()
+end
+function wh10()
+end
+function wh11()
+end
+function wh12()
+end
+function wh13()
+end
+function wh14()
+end
+function wh15()
+end
+function wh16()
+end
+function wh17()
+end
+function wh18()
+end
+function wh19()
+end
+function wh20()
+end
+function wh21()
+end
+function wh22()
+end
+function wh23()
+end
+function wh24()
+end
+function wh25()
+end
+function wh26()
+end
+function wh27()
+end
+function wh28()
+end
+function wh29()
+end
+function wh30()
+end
+
+function chtg()
+  CHG = gg.choice({
+    "ALL SD DEVICE",
+    "Color Snap 425",
+    "Color Snap 435",
+    "Color Snap 450",
+    "Color Snap 610",
+    "Color Snap 615",
+    "Color Snap 625",
+    "Color Snap 636",    
+    "Color Snap 650",    
+    "Color Snap 653",    
+    "Color Snap 660",    
+    "Color Snap 710",   
+    "Color Snap 712",
+    "Color Snap 835",
+    "Color Snap 845",
+    "Color Snap 855",
+    "⟦BACK⟧"
+     }, nil, "TiAmoSam")
+     
+  if CHG == nil then
+  else
+  if CHG == 1 then
+    adch()
+  end
+  if CHG == 2 then
+    ad425()
+  end
+  if CHG == 3 then
+    ad435()
+  end
+  if CHG == 4 then
+    ad450()
+  end
+  if CHG == 5 then
+    ad610()
+  end
+  if CHG == 6 then
+    ad615()
+  end
+  if CHG == 7 then
+    ad625()
+  end
+  if CHG == 8 then
+    ad636()
+  end
+  if CHG == 9 then
+    ad650()
+  end
+  if CHG == 10 then
+    ad653()
+  end
+  if CHG == 11 then
+    ad660()
+  end
+  if CHG == 12 then
+    ad710()
+  end
+  if CHG == 13 then
+    ad712()
+  end
+  if CHG == 14 then
+    ad835()
+  end
+  if CHG == 15 then
+    ad845()
+  end
+  if CHG == 16 then
+    ad855()
+  end
+  if CHG == 17 then
+    whch()
+  end
+end
+end
+function adch()
+   ALSDH = gg.choice({
+    "Color Rainbow",
+    "Color Yellow V1",
+    "Color Yellow V2",
+    "Color Red",
+    "Color Blue",
+    "Color Green",
+    "Color Orange",
+    "Color Pink",
+    "Color White",
+    "Color HDR Blue",
+    "Color HDR Diamond",
+    "Color HDR Green",
+    "Color HDR Rainbow",
+    "Color HDR Red",
+    "Color HDR Yellow",
+    "⟦ BACK ⟧"
+    }, nil, "TiAmoSam")
+  if ALSDH == nil then
+  else
+  if ALSDH == 1 then
+    adrainbow()
+  end
+  if ALSDH == 2 then
+    adyv1()
+  end
+  if ALSDH == 3 then
+    adyv2()
+  end
+  if ALSDH == 4 then
+    adred()
+  end
+  if ALSDH == 5 then
+    adblue()
+  end
+  if ALSDH == 6 then
+    adgreen()
+  end
+  if ALSDH == 7 then
+    adorange()
+  end
+  if ALSDH == 8 then
+    adpink()
+  end
+  if ALSDH == 9 then
+    adwhite()
+  end
+  if ALSDH == 10 then
+    adhblue()
+  end
+  if ALSDH == 11 then
+    adhdiamond()
+  end
+  if ALSDH == 12 then
+    adhgreen()
+  end
+  if ALSDH == 13 then
+    adhrainbow()
+  end
+  if ALSDH == 14 then
+    adhred()
+  end
+  if ALSDH == 15 then
+    adhyellow()
+  end
+  if ALSDH == 16 then
+    chtg()
+  end
+end
+end
+function adrainbow()
+end
+function adyv1()
+end
+function adyv2()
+end
+function adred()
+end
+function adblue()
+end
+function adgreen()
+end
+function adorange()
+end
+function adpink()
+end
+function adwhite()
+end
+function adhblue()
+end
+function adhdiamond()
+end
+function adhgreen()
+end
+function adhrainbow()
+end
+function adhred()
+end
+function adhyellow()
+end
+
+function ad425()
+  CH425 = gg.choice({
+  "Color Blue",
+  "Color Green",
+  "Color Red",
+  "Color Yellow",
+  "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if CH425 == nil then
+  else
+  if CH425 == 1 then
+    ad425b()
+  end
+  if CH425 == 2 then
+    ad425g()
+  end
+  if CH425 == 3 then
+    ad425r()
+  end
+  if CH425 == 4 then
+    ad425y()
+  end
+  if CH425 == 5 then
+    chtg()
+  end
+end
+end
+function ad425b()
+gg.toast("Good")
+end
+function ad425g()
+gg.toast("Good")
+end
+function ad425r()
+gg.toast("Good")
+end
+function ad425y()
+gg.toast("Good")
+end
+
+function ad435()
+  CH435 = gg.choice({
+  "Color Green",
+  "Color Red",
+  "Color Yellow",
+  "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if CH435 == nil then
+  else
+  if CH435 == 1 then
+    ad435g()
+  end
+  if CH435 == 2 then
+    ad435r()
+  end
+  if CH435 == 3 then
+    ad435y()
+  end
+  if CH435 == 4 then
+    chtg()
+  end
+end
+end
+function ad435g()
+gg.toast("Good")
+end
+function ad435r()
+gg.toast("Good")
+end
+function ad435y()
+gg.toast("Good")
+end
+
+function ad450()
+gg.toast("Good")
+end
+
+function ad610()
+  CH610 = gg.choice({
+  "Color Red",
+  "Color Yellow",
+  "Color White",
+  "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if CH610 == nil then
+  else
+  if CH610 == 1 then
+    ad610r()
+  end
+  if CH610 == 2 then
+    ad610y()
+  end
+  if CH610 == 3 then
+    ad610w()
+  end
+  if CH610 == 4 then
+    chtg()
+  end
+end
+end
+function ad610r()
+gg.toast("Good")
+end
+function ad610y()
+gg.toast("Good")
+end
+function ad610w()
+gg.toast("Good")
+end
+
+
+function ad615()
+  CH615 = gg.choice({
+  "Color Green",
+  "Color Yellow",
+  "Color Blue",
+  "Color Cryan",
+  "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if CH615 == nil then
+  else
+  if CH615 == 1 then
+    ad615g()
+  end
+  if CH615 == 2 then
+    ad615y()
+  end
+  if CH615 == 3 then
+    ad615b()
+  end
+  if CH615 == 4 then
+    ad615c()
+  end
+  if CH615 == 5 then
+    chtg()
+  end
+end
+end
+function ad615g()
+gg.toast("Good")
+end
+function ad615y()
+gg.toast("Good")
+end
+function ad615b()
+gg.toast("Good")
+end
+function ad615c()
+gg.toast("Good")
+end
+
+
+function ad625()
+  CH625 = gg.choice({
+  "Color Green",
+  "Color Red",
+  "Color Blue",
+  "Color White",
+  "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if CH625 == nil then
+  else
+  if CH625 == 1 then
+    ad625g()
+  end
+  if CH625 == 2 then
+    ad625r()
+  end
+  if CH625 == 3 then
+    ad625b()
+  end
+  if CH625 == 4 then
+    ad625w()
+  end
+  if CH625 == 5 then
+    chtg()
+  end
+end
+end
+function ad625g()
+gg.toast("Good")
+end
+function ad625r()
+gg.toast("Good")
+end
+function ad625b()
+gg.toast("Good")
+end
+function ad625w()
+gg.toast("Good")
+end
+
+function ad636()
+  CH636 = gg.choice({
+  "Color Green",
+  "Color Yellow",
+  "Color Red",
+  "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if CH636 == nil then
+  else
+  if CH636 == 1 then
+    ad636g()
+  end
+  if CH636 == 2 then
+    ad636y()
+  end
+  if CH636 == 3 then
+    ad636r()
+  end
+  if CH636 == 4 then
+    chtg()
+  end
+end
+end
+function ad636g()
+end
+function ad636y()
+end
+function ad636r()
+end
+
+function ad650()
+end
+
+function ad653()
+end
+
+function ad660()
+  CH660 = gg.choice({
+  "Color Green",
+  "Color Yellow",
+  "Color Red",
+  "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if CH660 == nil then
+  else
+  if CH660 == 1 then
+    ad660g()
+  end
+  if CH660 == 2 then
+    ad660y()
+  end
+  if CH660 == 3 then
+    ad660r()
+  end
+  if CH660 == 4 then
+    chtg()
+  end
+end
+end
+function ad660g()
+end
+function ad660y()
+end
+function ad660r()
+end
+
+function ad710()
+  CH710 = gg.choice({
+  "Color Green",
+  "Color Yellow",
+  "Color Blue",
+  "Color Red",
+  "Color White",
+  "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if CH710 == nil then
+  else
+  if CH710 == 1 then
+    ad710g()
+  end
+  if CH710 == 2 then
+    ad710y()
+  end
+  if CH710 == 3 then
+    ad710b()
+  end
+  if CH710 == 4 then
+    ad710r()
+  end
+  if CH710 == 5 then
+    ad710w()
+  end
+  if CH710 == 6 then
+    chtg()
+  end
+end
+
+function ad710g()
+end
+function ad710y()
+end
+function ad710b()
+end
+function ad710r()
+end
+function ad710w()
+end
+end
+function ad712()
+  CH712 = gg.choice({
+  "Color Green",
+  "Color Red",
+  "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if CH712 == nil then
+  else
+  if CH712 == 1 then
+    ad712g()
+  end
+  if CH712 == 2 then
+    ad712r()
+  end
+  if CH712 == 3 then
+    chtg()
+  end
+end
+end
+function ad712g()
+end
+function ad712r()
+end
+
+function ad835()
+  CH835 = gg.choice({
+  "Color Green",
+  "Color Yellow",
+  "Color Red",
+  "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if CH835 == nil then
+  else
+  if CH835 == 1 then
+    ad835g()
+  end
+  if CH835 == 2 then
+    ad835y()
+  end
+  if CH835 == 3 then
+    ad835r()
+  end
+  if CH835 == 4 then
+    chtg()
+  end
+end
+
+function ad835g()
+end
+function ad835y()
+end
+function ad835r()
+end
+end
+function ad845()
+  CH845 = gg.choice({
+  "Color Green",
+  "Color Red",
+  "Color Red HDR",
+  "Color Yellow",
+  "Color Blue",
+  "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if CH845 == nil then
+  else
+  if CH845 == 1 then
+    ad845g()
+  end
+  if CH845 == 2 then
+    ad845r()
+  end
+  if CH845 == 3 then
+    ad845rhdr()
+  end
+  if CH845 == 4 then
+    ad845y()
+  end
+  if CH845 == 5 then
+    ad845b()
+  end
+  if CH845 == 6 then
+    chtg()
+  end
+end
+end
+function ad845g()
+end
+function ad845r()
+end
+function ad845rhdr()
+end
+function ad845y()
+end
+function ad845b()
+end
+
+function ad855()
+  CH855 = gg.choice({
+  "Color Green",
+  "Color Yellow",
+  "Color Red",
+  "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if CH855 == nil then
+  else
+  if CH855 == 1 then
+    ad855g()
+  end
+  if CH855 == 2 then
+    ad855y()
+  end
+  if CH855 == 3 then
+    ad855r()
+  end
+  if CH855 == 4 then
+    chtg()
+  end
+end
+end
+function ad855g()
+end
+function ad855y()
+end
+function ad855r()
+end
+
+function ilh()
+  LF = gg.choice({
+    "Aim Lock ⟦Lobby⟧",
+    "Ultra Aim Bot ⟦Lobby⟧",
+    "Less Recoil ⟦Lobby⟧",
+    "No Recoil ⟦Lobby⟧",
+    "Magic Bullet ⟦Lobby⟧",
+    "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if LF == nil then
+  else
+    if LF == 1 then
+      lf1()
+    end
+    if LF == 2 then
+      lf2()
+    end
+    if LF == 3 then
+      lf3()
+    end
+    if LF == 4 then
+      lf4()
+    end
+    if LF == 5 then
+      lf5()
+    end
+    if LF == 6 then
+      Main()
+    end
+  end
+end
+
+function lf1()
+gg.toast("Good")
+end
+function lf2()
+gg.toast("Good")
+end
+function lf3()
+gg.toast("Good")
+end
+function lf4()
+gg.toast("Good")
+end
+function lf5()
+gg.toast("Good")
+end
+
+function igb()
+  GF = gg.multiChoice({
+    "⟦Antena⟧",
+    "⟦Aimbot⟧",
+    "⟦HeadShot⟧",
+    "⟦No Recoil⟧",
+    "⟦Sit Scope⟧",
+    "⟦Magic Bullet⟧",
+    "⟦Remove Fog And Grass⟧",
+    "⟦Fast Parachute⟧",
+    "⟦Micro Speed⟧",
+    "⟦Anti Blick⟧",
+    "⟦High Jump⟧",
+    "⟦Speed Knock⟧",
+    "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if GF == nil then
+  else
+    if GF[1] == true then
+      gf1()
+    end
+    if GF[2] == true then
+      gf2()
+    end
+    if GF[3] == true then
+      gf3()
+    end
+    if GF[4] == true then
+      gf4()
+    end
+    if GF[5] == true then
+      gf5()
+    end
+    if GF[6] == true then
+      gf6()
+    end
+    if GF[7] == true then
+      gf7()
+    end
+    if GF[8] == true then
+      gf8()
+    end
+    if GF[9] == true then
+      gf9()
+    end
+    if GF[10] == true then
+      gf10()
+    end
+    if GF[11] == true then
+      gf11()
+    end
+    if GF[12] == true then
+      gf12()
+    end
+    if GF[13] == true then
+      Main()
+    end
+  end
+end
+
+function gf1()
+gg.toast("Good")
+end
+function gf2()
+gg.toast("Good")
+end
+
+function gf3()
+HS = gg.choice({
+    "⟦Headshot [30%]⟧",
+    "⟦Headshot [50%]⟧",
+    "⟦Headshot [99%]⟧",
+    "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if HS == 1 then
+    hs30()
+  end
+  if HS == 2 then
+    hs50()
+  end
+  if HS == 3 then
+    hs99()
+  end
+  if HS == 4 then
+    igb()
+  end
+end
+
+function hs30()
+gg.toast("Good")
+end
+function hs50()
+gg.toast("Good")
+end
+function hs99()
+gg.toast("Good")
+end
+
+function gf4()
+gg.toast("Good")
+end
+
+function gf5()
+ST = gg.choice({
+    "⟦Sit-Scope ON⟧",
+    "⟦Sit-Scope OFF⟧",
+    "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if ST == 1 then
+    ston()
+  end
+  if ST == 2 then
+    stof()
+  end
+  if ST == 3 then
+    igb()
+  end
+end
+function ston()
+gg.toast("Good")
+end
+function stof()
+gg.toast("Good")
+end
+
+function gf6()
+  MH = gg.choice({
+    "⟦Magic Bullet [25%]⟧",
+    "⟦Magic Bullet [50%]⟧",
+    "⟦Magic Bullet [75%]⟧",
+    "⟦Magic Bullet [99%]⟧",
+    "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if MH == 1 then
+    mb25()
+  end
+  if MH == 2 then
+    mb50()
+  end
+  if MH == 3 then
+    mb75()
+  end
+  if MH == 4 then
+    mb99()
+  end
+  if MH == 5 then
+    igb()
+  end
+end
+
+function mb25()
+gg.toast("Good")
+end
+function mb50()
+gg.toast("Good")
+end
+function mb75()
+gg.toast("Good")
+end
+function mb99()
+gg.toast("Good")
+end
+
+function gf7()
+gg.toast("Good")
+end
+
+function gf8()
+gg.toast("Good")
+end
+
+function gf9()
+gg.toast("Good")
+end
+
+function gf10()
+gg.toast("Good")
+end
+
+function gf11()
+ST = gg.choice({
+    "⟦High-Jump ON⟧",
+    "⟦High-Jump OFF⟧",
+    "⟦ BACK ⟧"
+  }, nil, "TiAmoSam")
+  if ST == 1 then
+    hjon()
+  end
+  if ST == 2 then
+    hjof()
+  end
+  if ST == 3 then
+    igb()
+  end
+end
+
+function hjon()
+gg.toast("Good")
+end
+function hjof()
+gg.toast("Good")
+end
+
+function gf12()
+gg.toast("Good")
+end
+
+function exit()
+gg.clearResults()
+  gg.skipRestoreState()
+  gg.setVisible(true)
+  os.exit()
+end
+
+print("═══════════════════════════════\n")
+print("Please Join Our Telegram Channel \n cнannel : @TiAmoSamm")
+print("♻♻♻♻『sᴄʀɪᴘᴛ ᴠ1.0』♻♻♻♻")
+print("ᑕᖇᗴᗩ丅ᗴᗪ ᗷƳ TiAmoSam")
+print("👋🅢🅔🅔 🅨🅞🅤 🅐🅖🅐🅘🅝👋")
+print("\n═══════════════════════════════")
+while true do
+  if gg.isVisible(true) then
+    PUBGMH = 1
+    gg.setVisible(false)
+  end
+  gg.clearResults()
+  if PUBGMH == 1 then
+    Main()
+  end
+end
