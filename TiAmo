@@ -1,3 +1,15 @@
+local pass = "" -- Enter Pass
+local Crack = gg.prompt(
+{"ENTER PASSWORD"},{""},{"number"})
+if Crack == nil then
+print("Hala"")
+os.exit()
+elseif Crack[1] == pass then
+print("Correct")
+else
+print("Wrong")
+os.exit()
+end
 function Main()
   TA = gg.choice({
     "All AntiBen V1 [Lobby] ",
