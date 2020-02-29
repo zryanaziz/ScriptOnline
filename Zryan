@@ -405,7 +405,13 @@ gg.processResume()
 
 end 
 function More() 
-
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("300;305", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Magic bullet %100")
 end 
 function Exit() 
   print("Zryan Script") 
