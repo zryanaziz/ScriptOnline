@@ -129,7 +129,7 @@ function Headshot()
   gg.searchNumber("9.201618;30.5;25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
   gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
   gg.getResults(15)
-  gg.editAll("2000", gg.TYPE_FLOAT)
+  gg.editAll("500", gg.TYPE_FLOAT)
   gg.toast("Headshot Game")
   gg.clearResults()
 end 
